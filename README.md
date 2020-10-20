@@ -7,7 +7,7 @@ GitHub provides a means of storing on-premsie data in the cloud.
 ## Guide for MacOS
 
 (1) Open up the terminal and check to see if git is available by running:
-	'''git --version'''
+	```git --version```
 (1a) Git is usually installed on Mac but if not, navigate to git.com and download.
 
 (2) Once confirmed, type cd to navigate to a directory of your choice. This can either be the desktop or you can use the following commmand to create a new folder:
