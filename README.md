@@ -69,6 +69,6 @@ GitHub provides a means of storing on-premsie data in the cloud.
 
 ## TroubleShooting:
  * The commit command may cause issues. Make sure you run:
-	```git add .
-	git status``` 
+	```git add .```
+	```git status``` 
 first and ensure the status is green. Then run the commit command again.
