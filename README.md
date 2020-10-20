@@ -1,9 +1,11 @@
 This is the guide to create git and github connection with SSH key
 
 Introduction
+
 GitHub provides a means of storing on-premsie data in the cloud. 
 
 Guide for MacOS
+
 (1) Open up the terminal and check to see if git is available by running:
 	git --version
 (1a) Git is usually installed on Mac but if not, navigate to git.com and download.
@@ -54,7 +56,7 @@ Guide for MacOS
 	git branch -M main
 
 (19) Type the next command:
-	 git remote add origin [https://github.com/A-Ahmed100216/Engineering_74_business_week.git]--> this will change for new repositories.
+	 git remote add origin [https://github.com/USERNAME/REPOSITORYNAME]--> this will change for new repositories.
 
 (20) Upload the files using the final command:
 	git push -u origin main	
