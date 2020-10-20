@@ -1,13 +1,13 @@
-This is the guide to create git and github connection with SSH key
+# This is the guide to create git and github connection with SSH key
 
-Introduction
+## Introduction
 
 GitHub provides a means of storing on-premsie data in the cloud. 
 
-Guide for MacOS
+## Guide for MacOS
 
 (1) Open up the terminal and check to see if git is available by running:
-	git --version
+	'''git --version'''
 (1a) Git is usually installed on Mac but if not, navigate to git.com and download.
 
 (2) Once confirmed, type cd to navigate to a directory of your choice. This can either be the desktop or you can use the following commmand to create a new folder:
@@ -66,7 +66,7 @@ Guide for MacOS
 (22) To make changes, edit this file and commit the changes again i.e follows steps 17, 19 and 20 again. 
 
 
-TroubleShooting:
+## TroubleShooting:
  * The commit command may cause issues. Make sure you run:
 	git add .
 	git status 
