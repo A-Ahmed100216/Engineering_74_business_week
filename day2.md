@@ -16,7 +16,7 @@ The steps include:
 * Coined after Italian economist Vilfredo Pareto
 * 80% of effects arise from 20% of causes. 
 * 80/20 ratio present in various fields and aspects of life. For example:
-..* 20% of people supposedly own 80% of the world's wealth.
+  * 20% of people supposedly own 80% of the world's wealth.
 * Importance? It's easy to focus on the larger tasks but overlooking smaller tasks may lead to them accumulating and becoming an issue, thus 20% of tasks may lead to 80% issues.
 
 ## Eisenhower Priniple 
@@ -25,6 +25,7 @@ The steps include:
 * Important tasks are typically ones which help you own goals whether they are professional or personal.
 * Urgent tasks are usually tasks which help other reach their goals, i.e. a business. These require immediate attention.
 * The overall aim of this is to make efficient use of our time. 
+
 |             |Urgent   |Not Urgent   |
 |-------------|---------|-------------|
 |Important    |Do       |Decide       |
@@ -32,11 +33,11 @@ The steps include:
 
 
 ## Best Practices for Remote Working
-* Set up a dedicated workspace - quiet, free from distractions
-* Dress appropriately
-* Ensure a good internet connection
-* Do not eat
-* Keep your webcame on
+* Set up a dedicated workspace - quiet, free from distractions;
+* Dress appropriately;
+* Ensure a good internet connection;
+* Do not eat;
+* Keep your webcam on.
 
 # Communication 
 
@@ -67,7 +68,7 @@ Barriers to good communciation include:
 * Stay level headed and treat people with respect
 * Don't take things to heart, remember it is not personal.
 * Identifying bias and taking active measures to prevent it:
-..* Many types of bias exist. These include anchoring ( relying heavily on the first piece of information), Authority bias, confirmation bias and the bandowagon efect. Many more exists but it is important to undertsand how we tackle this.
+  * Many types of bias exist. These include anchoring (relying heavily on the first piece of information), Authority bias, confirmation bias and the bandowagon efect. Many more exists but it is important to undertsand how we tackle this.
 ### Tackling bias
 * Reactance - Telling people they can say no often leads them to saying yes.
 * Reciprocity - Be giving. Give first and others will feel obliged to return the favour.
@@ -83,3 +84,19 @@ There are many types of 'hats' you can wear. These include:
 * Red Hat-Feeling and emotions
 * Green Hat-Creativity
 * Blue Hat-Thinking
+Ultimately a balance is required. The following steps can be used to deal with conflict:
+* Assess and understand the situation 
+* Know your audience
+* Ask for help if needed
+* Compromise
+* LISTEN and RESPECT
+
+## Personality Types
+It is important to acknowledge differing personality types so as to gain an understanding of how to approach differing personalities. This ensures you can adapt accordingly, maintain respect and ultimately avoid conflict. Remember everyone is on the same team and effort is required to maintain cohesion and harmony.
+Types include:
+* Introverts
+* Extroverts
+* Supporters
+* Directors
+* Analysts
+
