@@ -1,3 +1,10 @@
+# *Contents*
+* *Introduction to GitHub*
+* *Time and Task Management*
+* *Communication*
+
+
+
 # Introduction to GitHub
 GitHub allows on-premise data to be stored in the cloud. This link is established via SSH between the local device and the GitHub Repository.
 A repository is a folder in the cloud. A key is required to authenticate this link. The creation of a key and setting up a github repository is detailed in the README.md file.

@@ -1,6 +1,7 @@
 # *Contents*
-*Critical Thinking*
-*Project Environments*
+* *Critical Thinking*
+* *Project Environments*
+* *What is DevOps?*
 
 # Critical Thinking
 ## Why?
@@ -88,6 +89,7 @@ Do say:
 * "...tends to..."
 * "The evidence suggests..."
 * "It has been said..."
+
 Do not say:
 * "I..."
 * "I think that..."
@@ -116,6 +118,7 @@ Do:
 * Speak clearly and concisely;
 * Use simple langauge - avoid jargon;
 * Active listening.
+
 Don't:
 * Falsify or alter evidence;
 * Publicly disagree with the decision;
@@ -123,13 +126,16 @@ Don't:
 * Act aggressively or offensively;
 * Interrupt others;
 * Disagree with facts or obvious truths.
-**Remember it is ok to make mistakes, as long as you admit to them, and agree with the opposite side.**
+
+**Remember it is ok to make mistakes, as long as you admit to them.** It is also ok to agree with the opposite side.
 
 
 # Project Environments
 ## Project Vs BAU
 BAU = Business as Usual. This refers to the standard practices you do every day. The normal execution of standard operations within an organisation.
+
 Project = Unique and transient with a desired outcome and set stages. These are:
+
    Initiation --> Planning --> Execution --> Monitoring and Control --> Close
 
 ## Triple Constraints
@@ -155,7 +161,7 @@ A mature team has several attributes:
 * Cross functional roles;
 * Self-organising;
 * Accountable and empowered;
-*Test and learn feedback loops.
+* Test and learn feedback loops.
 
 Roles in a team include:
 BA = Business Analyst;
