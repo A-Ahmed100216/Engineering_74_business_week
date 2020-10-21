@@ -1,6 +1,8 @@
 # Introduction to GitHub
 GitHub allows on-premise data to be stored in the cloud. This link is established via SSH between the local device and the GitHub Repository.
 A repository is a folder in the cloud. A key is required to authenticate this link. The creation of a key and setting up a github repository is detailed in the README.md file.
+### Why have a README.md file?
+Allows you to view contents of the file on the homepage.
 
 
 # Time and Task Management
@@ -84,12 +86,13 @@ There are many types of 'hats' you can wear. These include:
 * Red Hat-Feeling and emotions
 * Green Hat-Creativity
 * Blue Hat-Thinking
+
 Ultimately a balance is required. The following steps can be used to deal with conflict:
 * Assess and understand the situation 
 * Know your audience
 * Ask for help if needed
 * Compromise
-* LISTEN and RESPECT
+* **LISTEN and RESPECT**
 
 ## Personality Types
 It is important to acknowledge differing personality types so as to gain an understanding of how to approach differing personalities. This ensures you can adapt accordingly, maintain respect and ultimately avoid conflict. Remember everyone is on the same team and effort is required to maintain cohesion and harmony.
