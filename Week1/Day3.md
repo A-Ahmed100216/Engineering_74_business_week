@@ -60,7 +60,7 @@ Conversely, there are incorrect attitudes which prevent us from embracing critic
 
 The process can be summed up in the following diagram.
 
-! [inquiry_cycle] (https://github.com/A-Ahmed100216/Engineering_74_business_week/blob/main/images/inquiry_cycle.png)
+![inquiry_cycle](https://github.com/A-Ahmed100216/Engineering_74_business_week/blob/main/images/inquiry_cycle.png)
 
 
 
@@ -156,7 +156,7 @@ There are 3 main factors which influence a factor: Time, Quality and Cost. These
 ## Software development methodologies or lifecycles include:
 * Agile - Methodology used in development environments. Utilises an iterative approach where you do, deisgn and check. 
 * Waterfall - Logical progression, one after the other. Quite an outdated methodology. 
-! [waterfall] [Waterfall-Model.jpg]
+![waterfall][Waterfall-Model.jpg]
 
 
 * System's V - Similar logical progression as agile but more modern.
