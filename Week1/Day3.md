@@ -57,6 +57,7 @@ Conversely, there are incorrect attitudes which prevent us from embracing critic
 * Questions can either be open or closed questions:
   * Open - gives the respondant much more freedom in how they respond. Typically, open questions begin with 'how','why','when' etc. 
   * Closed - directs the respondant towards a certain answer. Typically, such questions have a 'yes' or 'no' response. 
+
 The process can be summed up in the following diagram.
 
 ! [image] [inquiry_cycle.png]
