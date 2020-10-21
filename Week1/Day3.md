@@ -59,6 +59,10 @@ Conversely, there are incorrect attitudes which prevent us from embracing critic
   * Closed - directs the respondant towards a certain answer. Typically, such questions have a 'yes' or 'no' response. 
 The process can be summed up in the following diagram.
 
+! [image] [inquiry_cycle.png]
+
+
+
 ## Debating 
 ### Things to consider
 * What is the source of evidence?
