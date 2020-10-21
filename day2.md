@@ -52,3 +52,34 @@ Can lead to an array of issues:
 * Misunderstandings
 * Lack of team cohesion and unity
 * Conflict 
+Barriers to good communciation include:
+* Geographical
+* Personal 
+* Physical
+* Langauge
+* Knowledge 
+* Cultural - i.e. respecting elders 
+* Organisational
+
+## Positive Actions in the workplace
+* Don't stereotype
+* Be open to ideas
+* Stay level headed and treat people with respect
+* Don't take things to heart, remember it is not personal.
+* Identifying bias and taking active measures to prevent it:
+..* Many types of bias exist. These include anchoring ( relying heavily on the first piece of information), Authority bias, confirmation bias and the bandowagon efect. Many more exists but it is important to undertsand how we tackle this.
+### Tackling bias
+* Reactance - Telling people they can say no often leads them to saying yes.
+* Reciprocity - Be giving. Give first and others will feel obliged to return the favour.
+* Door in the face - People may refuse large requests but if you ask a smaller second request, they are much more likely to agree. 
+* Likeability - Give people compliments.
+* Social Proof - People looks to others for guidance on how to act in certain situations. 
+
+## Conflict Resolution
+There are many types of 'hats' you can wear. These include:
+* White Hat- Factual
+* Yellow Hat- Brightness and optimism
+* Black Hat-Judgement
+* Red Hat-Feeling and emotions
+* Green Hat-Creativity
+* Blue Hat-Thinking
