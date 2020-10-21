@@ -60,7 +60,7 @@ Conversely, there are incorrect attitudes which prevent us from embracing critic
 
 The process can be summed up in the following diagram.
 
-! [image] [inquiry_cycle.png]
+! [inquiry_cycle] (https://github.com/A-Ahmed100216/Engineering_74_business_week/blob/main/images/inquiry_cycle.png)
 
 
 
