@@ -157,9 +157,10 @@ Attacks will typically utilise social engineering to do something which may not 
 * A = Action 
 * R = Result
 
-![Star Method](https://github.com/A-Ahmed100216/Engineering_74_business_week/blob/main/images/Star-Method.jpg)
+![Star Method](https://github.com/A-Ahmed100216/Engineering_74_business_week/blob/main/Week1/images/Star-Method.jpg)
 
-** Articulate your answers using STAR with examples**
+
+**Articulate your answers using STAR with examples**
 
 ### Benefits
 * Shows your ability to deal with situations

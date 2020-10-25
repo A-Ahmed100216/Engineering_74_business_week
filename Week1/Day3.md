@@ -60,7 +60,7 @@ Conversely, there are incorrect attitudes which prevent us from embracing critic
 
 The process can be summed up in the following diagram.
 
-![inquiry_cycle](https://github.com/A-Ahmed100216/Engineering_74_business_week/blob/main/images/inquiry_cycle.png)
+![inquiry_cycle](https://github.com/A-Ahmed100216/Engineering_74_business_week/blob/main/Week1/images/inquiry_cycle.png)
 
 
 
@@ -155,14 +155,13 @@ There are 3 main factors which influence a factor: Time, Quality and Cost. These
 
 ## Software development methodologies or lifecycles include:
 * Agile - Methodology used in development environments. Utilises an iterative approach where you do, deisgn and check. 
-![Agile](https://github.com/A-Ahmed100216/Engineering_74_business_week/blob/main/images/agile.jpg)
+![Agile](https://github.com/A-Ahmed100216/Engineering_74_business_week/blob/main/Week1/images/agile.jpg)
 
 * Waterfall - Logical progression, one after the other. Quite an outdated methodology. 
-![waterfall](https://github.com/A-Ahmed100216/Engineering_74_business_week/blob/main/images/waterfall.png)
+![waterfall](https://github.com/A-Ahmed100216/Engineering_74_business_week/blob/main/Week1/images/waterfall.png)
 
 * System's V - Similar logical progression as agile but more modern.
-![Vmodel](https://github.com/A-Ahmed100216/Engineering_74_business_week/blob/main/images/SystemsV.jpg)
-
+![Vmodel](https://github.com/A-Ahmed100216/Engineering_74_business_week/blob/main/Week1/images/SystemsV.jpg)
 
 
 ### Scrum and agile
