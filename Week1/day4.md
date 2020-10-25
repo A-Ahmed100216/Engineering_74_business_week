@@ -1,5 +1,6 @@
 # *Contents*
 * *GDPR*
+* *Cyber Security*
 * *Interview Skills*
 * *Linux/Bash Basics*
 
@@ -88,7 +89,7 @@ An individual holds many rights including the:
 * Keep a clear desk;
 * Avoid storing data on discs or USB.
 
-# CyberSecurity
+# Cyber Security
 ## Why is it important?
 * Underpins and protects core functions of every organisation.
 * All staff should have some awareness of threats and how to stay safe online.
@@ -148,3 +149,21 @@ Attacks will typically utilise social engineering to do something which may not 
   * Make sure all paper documents are disposed securely e.g. shredding.
 * Understanding the importance of reporting
  
+# Interview Skills
+
+## Using STAR
+* S = Situation
+* T = Task
+* A = Action 
+* R = Result
+
+![Star Method]
+
+** Articulate your answers using STAR with examples**
+
+### Benefits
+* Shows your ability to deal with situations
+* Structured and concise manner of answering the interviewer’s question.
+
+## What is an Elevator Pitch?
+* A brief introduction to yourself summarising key achievements.
